@@ -72,7 +72,7 @@ Each agent/node in the workflow adheres to this clean, scalable pattern:
 | 🐍 Python 3.10+ | Primary language                       |
 | 🔁 LangGraph    | Agent orchestration and routing        |
 | 🔡 Pydantic     | Type-safe state definition             |
-| 🧠 OpenAI GPT   | (optional) for intelligent agent nodes |
+| 🧠 Ollama Mistral   |  for intelligent agent nodes |
 | 🧠 Vector Search| (optional) for RAG agents              |
 
 ---
